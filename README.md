@@ -120,7 +120,12 @@ Question | Solution
 ## Dictionary
 Question | Solution
  --- | ---
-[name](#) | [Python](#) |
+[چهارتاییا](https://quera.org/college/12547/chapter/57373/lesson/194801/) | [Python](#) |
+[یک دوزبانه](https://quera.org/college/12547/chapter/57373/lesson/194802/) | [Python](#) |
+[بشمار یک](https://quera.org/college/12547/chapter/57373/lesson/194804/) | [Python](#) |
+[چند تا چی؟](https://quera.org/college/12547/chapter/57373/lesson/194806/) | [Python](#) |
+[بدرود](https://quera.org/college/12547/chapter/57373/lesson/194807) | [Python](#) |
+[انتخاب بد](https://quera.org/college/12547/chapter/57373/lesson/194808) | [Python](#) |
 
 ## Recursive Function
 Question | Solution
