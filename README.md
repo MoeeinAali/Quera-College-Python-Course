@@ -130,8 +130,13 @@ Question | Solution
 ## Recursive Function
 Question | Solution
  --- | ---
-[name](#) | [Python](#) |
-
+[دنباله ساده ](https://quera.org/college/12547/chapter/46827/lesson/162389/) | [Python](#) |
+[فیبوناچی‌ها](https://quera.org/college/12547/chapter/46827/lesson/162361/) | [Python](#) |
+[تک‌تکِ اردک](https://quera.org/college/12547/chapter/46827/lesson/165357/) | [Python](#) |
+[مثلث خیام پاسکال](https://quera.org/college/12547/chapter/46827/lesson/165358/) | [Python](#) |
+[سه‌صفر](https://quera.org/college/12547/chapter/46827/lesson/165352/) | [Python](#) |
+[برج هانوی](https://quera.org/college/12547/chapter/46827/lesson/162391/) | [Python](#) |
+[دیباگ و بی‌باگ!](https://quera.org/college/12547/chapter/46827/lesson/162390/)
 ## Sorting and Searching
 Question | Solution
  --- | ---
