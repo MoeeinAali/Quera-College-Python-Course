@@ -60,8 +60,18 @@ Question | Solution
 ## Loop Structure
 Question | Solution
  --- | ---
-[name](#) | [Python](#) |
-
+[سوال زرد](https://quera.org/college/12547/chapter/46824/lesson/162314/) | [Python](#) |
+[فاکتوریل!](https://quera.org/college/12547/chapter/46824/lesson/162316/) | [Python](#) |
+[فرد چاپ کن!](https://quera.org/college/12547/chapter/46824/lesson/162317/) | [Python](#) |
+[رشته‌ خردکن!](https://quera.org/college/12547/chapter/46824/lesson/162318/) | [Python](#) |
+[حلقه ورودی](https://quera.org/college/12547/chapter/46824/lesson/162320/) | [Python](#) |
+[تاس](https://quera.org/college/12547/chapter/46824/lesson/164334/) | [Python](#) |
+[سیونِبِ سکعَربَ!](https://quera.org/college/12547/chapter/46824/lesson/162400/) | [Python](#) |
+[ب.م.م تِرَک‌ها](https://quera.org/college/12547/chapter/46824/lesson/165078/) | [Python](#) |
+[کامل بودن یا نبودن](https://quera.org/college/12547/chapter/46824/lesson/164111/) | [Python](#) |
+[جدول ضرب جادویی](https://quera.org/college/12547/chapter/46824/lesson/162403/) | [Python](#) |
+[خیلی شفتالو](https://quera.org/college/12547/chapter/46824/lesson/164318/) | [Python](#) |
+[دیباگ و بی‌باگ!](https://quera.org/college/12547/chapter/46824/lesson/162395/) | [Python](#) |
 
 ## Periodic Exercises 1
 Question | Solution
