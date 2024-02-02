@@ -104,7 +104,18 @@ Question | Solution
 ## List
 Question | Solution
  --- | ---
-[name](#) | [Python](#) |
+[برعکس چاپ کن!](https://quera.org/college/12547/chapter/46826/lesson/164139/) | [Python](#) |
+[میانگین زیادی](https://quera.org/college/12547/chapter/46826/lesson/164138/) | [Python](#) |
+[بازی هویجی](https://quera.org/college/12547/chapter/46826/lesson/165241/) | [Python](#) |
+[شیفت](https://quera.org/college/12547/chapter/46826/lesson/165247/) | [Python](#) |
+[ماژیک‌های بهروز](https://quera.org/college/12547/chapter/46826/lesson/165244/) | [Python](#) |
+[تا کی مقلوب؟](https://quera.org/college/12547/chapter/46826/lesson/164144/) | [Python](#) |
+[تغییرات آرایوی](https://quera.org/college/12547/chapter/46826/lesson/165243/) | [Python](#) |
+[و حتی ساده‌تر!](https://quera.org/college/12547/chapter/46826/lesson/164145/) | [Python](#) |
+[جمع دو ماتریس](https://quera.org/college/12547/chapter/46826/lesson/168503/) | [Python](#) |
+[آسمان شکر‌آباد](https://quera.org/college/12547/chapter/46826/lesson/169980/) | [Python](#) |
+[#نه‌ـ‌به‌ـ‌واج‌آرایی](https://quera.org/college/12547/chapter/46826/lesson/169979/) | [Python](#) |
+[دیباگ و بی‌باگ!](https://quera.org/college/12547/chapter/46826/lesson/164148/) | [Python](#) |
 
 ## Dictionary
 Question | Solution
