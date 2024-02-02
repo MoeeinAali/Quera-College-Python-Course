@@ -155,4 +155,14 @@ Question | Solution
 ## Periodic Exercises 2
 Question | Solution
  --- | ---
-[[name]](#) | [Python](#) |
+[تست بینایی](https://quera.org/college/12547/chapter/46830/lesson/168506/) | [Python](#) |
+[اول‌بینی](https://quera.org/college/12547/chapter/46830/lesson/168515/) | [Python](#) |
+[در جستجوی پدر](https://quera.org/college/12547/chapter/46830/lesson/168507/) | [Python](#) |
+[باغچه رز](https://quera.org/college/12547/chapter/46830/lesson/168521/) | [Python](#) |
+[اتل متل توتوله](https://quera.org/college/12547/chapter/46830/lesson/168524/) | [Python](#) |
+[آلفا قنطورس](https://quera.org/college/12547/chapter/46830/lesson/168516/) | [Python](#) |
+[کشف معادله](https://quera.org/college/12547/chapter/46830/lesson/168508/) | [Python](#) |
+[شماره رند](https://quera.org/college/12547/chapter/46830/lesson/168519/) | [Python](#) |
+[سماق‌فارم](https://quera.org/college/12547/chapter/46830/lesson/168509/) | [Python](#) |
+[مربع جادویی](https://quera.org/college/12547/chapter/46830/lesson/168514/) | [Python](#) |
+[رشته‌های وارواژه](https://quera.org/college/12547/chapter/46830/lesson/168523/) | [Python](#) |
