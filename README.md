@@ -136,7 +136,7 @@ Question | Solution
 [مثلث خیام پاسکال](https://quera.org/college/12547/chapter/46827/lesson/165358/) | [Python](#) |
 [سه‌صفر](https://quera.org/college/12547/chapter/46827/lesson/165352/) | [Python](#) |
 [برج هانوی](https://quera.org/college/12547/chapter/46827/lesson/162391/) | [Python](#) |
-[دیباگ و بی‌باگ!](https://quera.org/college/12547/chapter/46827/lesson/162390/)
+[دیباگ و بی‌باگ!](https://quera.org/college/12547/chapter/46827/lesson/162390/) | [Python](#) |
 ## Sorting and Searching
 Question | Solution
  --- | ---
