@@ -17,7 +17,16 @@
 ## Introduction
 Question | Solution
  --- | ---
-[الگوریتم تمرینی](<https://quera.org/college/12547/chapter/46820/lesson/159445/>) | [Python](#) |
+[چند شدی؟](https://quera.org/college/12547/chapter/46823/lesson/159616/) | [Python](#) |
+[یخ](https://quera.org/college/12547/chapter/46823/lesson/162871/) | [Python](#) |
+[لامپ اضافی خاموش!](https://quera.org/college/12547/chapter/46823/lesson/159615/) | [Python](#) |
+[بیشنیه ۴](https://quera.org/college/12547/chapter/46823/lesson/162889/) | [Python](#) |
+[مثلثه؟](https://quera.org/college/12547/chapter/46823/lesson/159769/) | [Python](#) |
+[مثلث قائم](https://quera.org/college/12547/chapter/46823/lesson/159770/) | [Python](#) |
+[پیتزا هر چه بیشتر، بهتر](https://quera.org/college/12547/chapter/46823/lesson/162886/) | [Python](#) |
+[طبابت هویج و شلغم](https://quera.org/college/12547/chapter/46823/lesson/162882/) | [Python](#) |
+[صدگان خسته](https://quera.org/college/12547/chapter/46823/lesson/162887/) | [Python](#) |
+[دیباگ و بی‌باگ!](https://quera.org/college/12547/chapter/46823/lesson/159498/) | [Python](#) |
 
 ## Input, Output, Variable
 Question | Solution
