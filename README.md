@@ -1,7 +1,5 @@
 # Python Course Solutions at ![کوئرا](https://user-images.githubusercontent.com/49264993/137637114-e0687e95-08eb-4181-98b0-56fe515f6bc7.png)
 ### Content:
-- [Python Course Solutions at ](#python-course-solutions-at-)
-    - [Content:](#content)
   - [Introduction](#introduction)
   - [Input, Output, Variable](#input-output-variable)
   - [Mathematical Operators](#mathematical-operators)
