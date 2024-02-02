@@ -140,7 +140,17 @@ Question | Solution
 ## Sorting and Searching
 Question | Solution
  --- | ---
-[name](#) | [Python](#) |
+[نزولی!](https://quera.org/college/12547/chapter/46828/lesson/168526/) | [Python](#) |
+[صعودی!](https://quera.org/college/12547/chapter/46828/lesson/168527/) | [Python](#) |
+[دانشجویابی](https://quera.org/college/12547/chapter/46828/lesson/165366/) | [Python](#) |
+[تقلب در شب یلدا!](https://quera.org/college/12547/chapter/46828/lesson/165371/) | [Python](#) |
+[مرتب‌سازی خفن](https://quera.org/college/12547/chapter/46828/lesson/165364/) | [Python](#) |
+[همه را بیاب!](https://quera.org/college/12547/chapter/46828/lesson/168557/) | [Python](#) |
+[دیتابیس نسبتا بزرگ](https://quera.org/college/12547/chapter/46828/lesson/166907/) | [Python](#) |
+[رشته تو رشته](https://quera.org/college/12547/chapter/46828/lesson/166909/) | [Python](#) |
+[در زمان کمتری بیاب!](https://quera.org/college/12547/chapter/46828/lesson/168562/) | [Python](#) |
+[دیتابیس خیلی بزرگ](https://quera.org/college/12547/chapter/46828/lesson/166904/) | [Python](#) |
+[دیباگ و بی‌باگ!](https://quera.org/college/12547/chapter/46828/lesson/162350/) | [Python](#) |
 
 ## Periodic Exercises 2
 Question | Solution
