@@ -92,7 +92,14 @@ Question | Solution
 ## Function
 Question | Solution
  --- | ---
-[name](#) | [Python](#) |
+[چارتاییا](https://quera.org/college/12547/chapter/46825/lesson/164170/) | [Python](#) |
+[ب.م.م آلبوم](https://quera.org/college/12547/chapter/46825/lesson/165079/) | [Python](#) |
+[چارتاییا](https://quera.org/college/12547/chapter/46825/lesson/164175/) | [Python](#) |
+[اس‌تی‌یاب](https://quera.org/college/12547/chapter/46825/lesson/164179/) | [Python](#) |
+[مربع توپر](https://quera.org/college/12547/chapter/46825/lesson/164180/) | [Python](#) |
+[اعداد اول](https://quera.org/college/12547/chapter/46825/lesson/165070/) | [Python](#) |
+[دیباگ و بی‌باگ!](https://quera.org/college/12547/chapter/46825/lesson/164182/) | [Python](#) |
+
 
 ## List
 Question | Solution
