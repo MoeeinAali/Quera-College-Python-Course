@@ -76,7 +76,17 @@ Question | Solution
 ## Periodic Exercises 1
 Question | Solution
  --- | ---
-[name](#) | [Python](#) |
+[امتحان سمج](https://quera.org/college/12547/chapter/46829/lesson/167595/) | [Python](#) |
+[جادوی ضد تقلب](https://quera.org/college/12547/chapter/46829/lesson/167596/) | [Python](#) |
+[آخر و عاقبت تقلب](https://quera.org/college/12547/chapter/46829/lesson/167597/) | [Python](#) |
+[معجون نجات](https://quera.org/college/12547/chapter/46829/lesson/167598/) | [Python](#) |
+[همایش تنبیهی](https://quera.org/college/12547/chapter/46829/lesson/167599/) | [Python](#) |
+[هم‌اخلاق](https://quera.org/college/12547/chapter/46829/lesson/167602/) | [Python](#) |
+[هندونه‌خوری](https://quera.org/college/12547/chapter/46829/lesson/167603/) | [Python](#) |
+[خرهای جنگل سیاه](https://quera.org/college/12547/chapter/46829/lesson/167604/) | [Python](#) |
+[دایره عجیب](https://quera.org/college/12547/chapter/46829/lesson/167605/) | [Python](#) |
+[بچسبان](https://quera.org/college/12547/chapter/46829/lesson/167607/) | [Python](#) |
+
 
 
 ## Function
