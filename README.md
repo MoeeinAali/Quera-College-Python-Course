@@ -17,58 +17,59 @@
 ## Introduction
 Question | Solution
  --- | ---
-[دیدن سخت](#) | [Python](#) |
+[[name]](#) | [Python](#) |
 
 ## Input, Output, Variable
 Question | Solution
  --- | ---
-[دیدن سخت](#) | [Python](#) |
+[[name]](#) | [Python](#) |
 
 ## Mathematical Operators
 Question | Solution
  --- | ---
-[دیدن سخت](#) | [Python](#) |
+[[name]](#) | [Python](#) |
 
 ## Conditional Structure
 Question | Solution
  --- | ---
-[دیدن سخت](#) | [Python](#) |
+[[name]](#) | [Python](#) |
 
 ## Loop Structure
 Question | Solution
  --- | ---
-[دیدن سخت](#) | [Python](#) |
+[[name]](#) | [Python](#) |
 
 ## Periodic Exercises 1
 Question | Solution
  --- | ---
-[دیدن سخت](#) | [Python](#) |
+[[name]](#) | [Python](#) |
+
 ## Function
 Question | Solution
  --- | ---
-[دیدن سخت](#) | [Python](#) |
+[[name]](#) | [Python](#) |
 
 ## List
 Question | Solution
  --- | ---
-[دیدن سخت](#) | [Python](#) |
+[[name]](#) | [Python](#) |
 
 ## Dictionary
 Question | Solution
  --- | ---
-[دیدن سخت](#) | [Python](#) |
+[[name]](#) | [Python](#) |
 
 ## Recursive Function
 Question | Solution
  --- | ---
-[دیدن سخت](#) | [Python](#) |
+[[name]](#) | [Python](#) |
 
 ## Sorting and Searching
 Question | Solution
  --- | ---
-[دیدن سخت](#) | [Python](#) |
+[[name]](#) | [Python](#) |
 
 ## Periodic Exercises 2
 Question | Solution
  --- | ---
-[دیدن سخت](#) | [Python](#) |
+[[name]](#) | [Python](#) |
