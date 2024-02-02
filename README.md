@@ -45,8 +45,7 @@ Question | Solution
 
 ## Conditional Structure
 Question | Solution
-
- --- | ---
+--- | ---
 [چند شدی؟](https://quera.org/college/12547/chapter/46823/lesson/159616/) | [Python](#) |
 [یخ](https://quera.org/college/12547/chapter/46823/lesson/162871/) | [Python](#) |
 [لامپ اضافی خاموش!](https://quera.org/college/12547/chapter/46823/lesson/159615/) | [Python](#) |
