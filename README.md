@@ -1,7 +1,5 @@
 # Python Course Solutions at ![کوئرا](https://user-images.githubusercontent.com/49264993/137637114-e0687e95-08eb-4181-98b0-56fe515f6bc7.png)
 ### Content:
-- [Python Course Solutions at ](#python-course-solutions-at-)
-    - [Content:](#content)
   - [Introduction](#introduction)
   - [Input, Output, Variable](#input-output-variable)
   - [Mathematical Operators](#mathematical-operators)
@@ -26,16 +24,24 @@ Question | Solution
  --- | ---
 [سلام به ما!](<https://quera.org/college/12547/chapter/46821/lesson/158717/>) | [Python](#) |
 [مستطیل فضایی](<https://quera.org/college/12547/chapter/46821/lesson/158719/>) | [Python](#) |
-[name](#) | [Python](#) |
-[name](#) | [Python](#) |
-[name](#) | [Python](#) |
-[name](#) | [Python](#) |
-[name](#) | [Python](#) |
+[مثلث توپُر](<https://quera.org/college/12547/chapter/46821/lesson/158720/>) | [Python](#) |
+[چارتاییا](<https://quera.org/college/12547/chapter/46821/lesson/159157/>) | [Python](#) |
+[جابه‌جا](<https://quera.org/college/12547/chapter/46821/lesson/163186/>) | [Python](#) |
+[صحیح‌ساز](https://quera.org/college/12547/chapter/46821/lesson/159166/) | [Python](#) |
+[الفبا](https://quera.org/college/12547/chapter/46821/lesson/179815/) | [Python](#) |
 
 ## Mathematical Operators
 Question | Solution
  --- | ---
-[name](#) | [Python](#) |
+[چارتاییا](https://quera.org/college/12547/chapter/46822/lesson/162856/) | [Python](#) |
+[کاشی‌کاریِ کفِ استخر](<https://quera.org/college/12547/chapter/46822/lesson/162857/>) | [Python](#) |
+[شطرنج حرفه‌ای](<https://quera.org/college/12547/chapter/46822/lesson/162858/>) | [Python](#) |
+[یَکان](https://quera.org/college/12547/chapter/46822/lesson/159475/) | [Python](#) |
+[زمان‌سنج](https://quera.org/college/12547/chapter/46822/lesson/159476/) | [Python](#) |
+[ساعت آینه‌ای](https://quera.org/college/12547/chapter/46822/lesson/162866/) | [Python](#) |
+[اختلال در اینترنت!](<https://quera.org/college/12547/chapter/46822/lesson/162869/>) | [Python](#) |
+[مستطیل رشته‌ای](<https://quera.org/college/12547/chapter/46822/lesson/159477/>) | [Python](#) |
+[بهروز و پرینتر خراب](https://quera.org/college/12547/chapter/46822/lesson/162868/) | [Python](#) |
 
 ## Conditional Structure
 Question | Solution
