@@ -17,57 +17,59 @@
 ## Introduction
 Question | Solution
  --- | ---
-[[name]](#) | [Python](#) |
+[name](#) | [Python](#) |
 
 ## Input, Output, Variable
 Question | Solution
  --- | ---
-[[name]](#) | [Python](#) |
+[name](#) | [Python](#) |
 
 ## Mathematical Operators
 Question | Solution
  --- | ---
-[[name]](#) | [Python](#) |
+[name](#) | [Python](#) |
 
 ## Conditional Structure
 Question | Solution
  --- | ---
-[[name]](#) | [Python](#) |
+[name](#) | [Python](#) |
 
 ## Loop Structure
 Question | Solution
  --- | ---
-[[name]](#) | [Python](#) |
+[name](#) | [Python](#) |
+
 
 ## Periodic Exercises 1
 Question | Solution
  --- | ---
-[[name]](#) | [Python](#) |
+[name](#) | [Python](#) |
+
 
 ## Function
 Question | Solution
  --- | ---
-[[name]](#) | [Python](#) |
+[name](#) | [Python](#) |
 
 ## List
 Question | Solution
  --- | ---
-[[name]](#) | [Python](#) |
+[name](#) | [Python](#) |
 
 ## Dictionary
 Question | Solution
  --- | ---
-[[name]](#) | [Python](#) |
+[name](#) | [Python](#) |
 
 ## Recursive Function
 Question | Solution
  --- | ---
-[[name]](#) | [Python](#) |
+[name](#) | [Python](#) |
 
 ## Sorting and Searching
 Question | Solution
  --- | ---
-[[name]](#) | [Python](#) |
+[name](#) | [Python](#) |
 
 ## Periodic Exercises 2
 Question | Solution
