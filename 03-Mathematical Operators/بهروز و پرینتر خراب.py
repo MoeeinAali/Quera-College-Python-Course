@@ -1,0 +1,6 @@
+n = int(input())
+ch = input()
+print(n*ch)
+print(n*(ch*2))
+print(n*(ch*4))
+print(n*(ch*8))

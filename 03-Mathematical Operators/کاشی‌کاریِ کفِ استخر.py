@@ -1,0 +1,6 @@
+m, n = input().split()
+n = int(n)
+m = int(m)
+tedad_kashi = (m * n)/(0.04 * 0.05)
+tedad_kashi = int(tedad_kashi)
+print(tedad_kashi)

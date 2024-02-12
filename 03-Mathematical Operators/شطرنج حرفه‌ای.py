@@ -1,0 +1,8 @@
+shah, vazir, rokh, fil, asb, sarbaz = input().split()
+shah = -(int(shah) - 1)
+vazir = -(int(vazir) - 1)
+rokh = -(int(rokh) - 2)
+fil = -(int(fil) - 2)
+asb = -(int(asb) - 2)
+sarbaz = -(int (sarbaz) - 8)
+print(shah, vazir, rokh, fil, asb, sarbaz)
