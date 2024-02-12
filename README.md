@@ -54,6 +54,7 @@ Question | Solution
 [مثلث قائم](https://quera.org/college/12547/chapter/46823/lesson/159770/) | [Python]() |
 [پیتزا هر چه بیشتر، بهتر](https://quera.org/college/12547/chapter/46823/lesson/162886/) | [Python]() |
 [طبابت هویج و شلغم](https://quera.org/college/12547/chapter/46823/lesson/162882/) | [Python]() |
+[دوربین مداربسته](https://quera.org/college/12547/chapter/46823/lesson/162888/) | [Python]() |
 [صدگان خسته](https://quera.org/college/12547/chapter/46823/lesson/162887/) | [Python]() |
 [دیباگ و بی‌باگ!](https://quera.org/college/12547/chapter/46823/lesson/159498/) | [Python]() |
 
