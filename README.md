@@ -1,14 +1,14 @@
 # Python Course Solutions at ![کوئرا](https://user-images.githubusercontent.com/49264993/137637114-e0687e95-08eb-4181-98b0-56fe515f6bc7.png)
 ### Content:
-1. [Introduction](Introduction)
-2. [Input, Output, Variable](https://github.com/MoeeinAali/Quera-College-Python-Course/tree/cdc1010e36fb062d0c074d8e8d97cf7eb68f8c10/02-Input%2C%20Output%2C%20Variable)
-3. [Mathematical Operators](mathematical-operators)
-4. [Conditional Structure](conditional-structure)
-5. [Loop Structure](loop-structure)
-6. [Periodic Exercises 1](periodic-exercises-1)
-7. [Function](function)
-8. [List](list)
-9. [Dictionary](dictionary)
-10. [Recursive Function](recursive-function)
-11. [Sorting and Searching](sorting-and-searching)
-12. [Periodic Exercises 2](periodic-exercises-2)
+1. Introduction
+2. Input, Output, Variable
+3. Mathematical Operators
+4. Conditional Structure
+5. Loop Structure
+6. Periodic Exercises 1
+7. Function
+8. List
+9. Dictionary
+10. Recursive Function
+11. Sorting and Searching
+12. Periodic Exercises 2
