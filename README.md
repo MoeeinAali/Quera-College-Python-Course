@@ -1,8 +1,8 @@
 # Python Course Solutions at ![کوئرا](https://user-images.githubusercontent.com/49264993/137637114-e0687e95-08eb-4181-98b0-56fe515f6bc7.png)
 ### Content:
 1. [Introduction](01-Introduction)
-2. [Input, Output, Variable](02-Input,Output,Variable)
-3. [Mathematical Operators](03-mathematical-operators)
+2. [Input, Output, Variable](https://github.com/MoeeinAali/Quera-College-Python-Course/tree/cdc1010e36fb062d0c074d8e8d97cf7eb68f8c10/02-Input%2C%20Output%2C%20Variable)
+3. [Mathematical Operators](mathematical-operators)
 4. [Conditional Structure](conditional-structure)
 5. [Loop Structure](loop-structure)
 6. [Periodic Exercises 1](periodic-exercises-1)
